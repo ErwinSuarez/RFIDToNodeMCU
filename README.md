@@ -11,4 +11,5 @@ database. The server should have responded to clients request and
 returns a boolean value of true or false depending on the RFID tag
 
 NOTE: THIS IS STILL IN DEVELOPMENT. goal is index.php should be used
-to respond to clients request with data being passed
+to respond to clients request with data being passed still need to 
+html script to recieve servers reposnse
